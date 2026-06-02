@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body{
+  width: 100%;
+  height: 100%;
+}
+
+main{
+  width: 100%;
+  padding: 1rem;
+}
+
+.hero-text{
+  width: 100%;
+}
+
+.hero-text img{
+  display: block;
+  width: 100%;
+  height: auto;
+}
